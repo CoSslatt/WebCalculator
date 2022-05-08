@@ -14,7 +14,7 @@
 - C button
 - Decimal numbers
 
-### Not working or issues
+### Not working or issues:
 - You can't type more than 1 operation e.g. 10 - 5 - 5
 - %
 - CE button
@@ -22,6 +22,11 @@
 - +/- button
 
 ---
+
+### Technologies I used:
+- HTML
+- CSS
+- Javascript
 
 ### Status:
 - Done
