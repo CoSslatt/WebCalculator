@@ -35,4 +35,4 @@
 
 ---
 
-https://narcikss.github.io/WebCalculator/
+https://cosslatt.github.io/WebCalculator/
